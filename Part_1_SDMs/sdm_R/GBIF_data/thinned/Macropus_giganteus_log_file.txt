@@ -1,0 +1,200 @@
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Mon Jul  5 12:19:26 2021
+
+Thinning Parameter Used (in km): 50
+Number of replicates of thinning script: 1
+
+Elapsed time for thinning completion
+23.475 11.445 35.007 0 0
+
+Number of data.frames per locations retained
+loc.cnt df.freq
+115
+1
+Maximum number of records after thinning: 115
+Number of data.frames with max records: 1
+
+**New *.csv file creation:**
+Writing new *.csv files to output directory: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/
+Writing file: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/Macropus_giganteus_thin1.csv
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Mon Jul  5 13:10:35 2021
+
+Thinning Parameter Used (in km): 50
+Number of replicates of thinning script: 1
+
+Elapsed time for thinning completion
+24.975 12.364 37.42 0 0
+
+Number of data.frames per locations retained
+loc.cnt df.freq
+114
+1
+Maximum number of records after thinning: 114
+Number of data.frames with max records: 1
+
+**New *.csv file creation:**
+Writing new *.csv files to output directory: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/
+Writing file: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/Macropus_giganteus_thin1.csv
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Mon Jul  5 13:29:43 2021
+
+Thinning Parameter Used (in km): 50
+Number of replicates of thinning script: 1
+
+Elapsed time for thinning completion
+24.009 11.585 35.604 0 0
+
+Number of data.frames per locations retained
+loc.cnt df.freq
+115
+1
+Maximum number of records after thinning: 115
+Number of data.frames with max records: 1
+
+**New *.csv file creation:**
+Writing new *.csv files to output directory: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/
+Writing file: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/Macropus_giganteus_thin1.csv
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Mon Jul  5 14:27:24 2021
+
+Thinning Parameter Used (in km): 50
+Number of replicates of thinning script: 1
+
+Elapsed time for thinning completion
+24.214 12.315 36.567 0 0
+
+Number of data.frames per locations retained
+loc.cnt df.freq
+114
+1
+Maximum number of records after thinning: 114
+Number of data.frames with max records: 1
+
+**New *.csv file creation:**
+Writing new *.csv files to output directory: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/
+Writing file: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/Macropus_giganteus_thin1.csv
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Tue Jul  6 15:22:44 2021
+
+Thinning Parameter Used (in km): 50
+Number of replicates of thinning script: 1
+
+Elapsed time for thinning completion
+24.915 6.225 31.131 0 0
+
+Number of data.frames per locations retained
+loc.cnt df.freq
+115
+1
+Maximum number of records after thinning: 115
+Number of data.frames with max records: 1
+
+**New *.csv file creation:**
+Writing new *.csv files to output directory: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/
+Writing file: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/Macropus_giganteus_thin1.csv
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Tue Jul  6 15:43:56 2021
+
+Thinning Parameter Used (in km): 50
+Number of replicates of thinning script: 1
+
+Elapsed time for thinning completion
+28.18 21.124 49.404 0 0
+
+Number of data.frames per locations retained
+loc.cnt df.freq
+115
+1
+Maximum number of records after thinning: 115
+Number of data.frames with max records: 1
+
+**New *.csv file creation:**
+Writing new *.csv files to output directory: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/
+Writing file: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/Macropus_giganteus_thin1.csv
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Tue Jul  6 15:50:49 2021
+
+Thinning Parameter Used (in km): 50
+Number of replicates of thinning script: 1
+
+Elapsed time for thinning completion
+25.519 11.975 37.49 0 0
+
+Number of data.frames per locations retained
+loc.cnt df.freq
+113
+1
+Maximum number of records after thinning: 113
+Number of data.frames with max records: 1
+
+**New *.csv file creation:**
+Writing new *.csv files to output directory: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/
+Writing file: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/Macropus_giganteus_thin1.csv
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Tue Jul  6 16:00:27 2021
+
+Thinning Parameter Used (in km): 50
+Number of replicates of thinning script: 1
+
+Elapsed time for thinning completion
+31.036 24.64 55.749 0 0
+
+Number of data.frames per locations retained
+loc.cnt df.freq
+114
+1
+Maximum number of records after thinning: 114
+Number of data.frames with max records: 1
+
+**New *.csv file creation:**
+Writing new *.csv files to output directory: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/
+Writing file: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/Macropus_giganteus_thin1.csv
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Tue Jul  6 16:04:46 2021
+
+Thinning Parameter Used (in km): 50
+Number of replicates of thinning script: 1
+
+Elapsed time for thinning completion
+24.414 6.547 30.98 0 0
+
+Number of data.frames per locations retained
+loc.cnt df.freq
+114
+1
+Maximum number of records after thinning: 114
+Number of data.frames with max records: 1
+
+**New *.csv file creation:**
+Writing new *.csv files to output directory: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/
+Writing file: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/Macropus_giganteus_thin1.csv
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Tue Jul  6 18:50:31 2021
+
+Thinning Parameter Used (in km): 50
+Number of replicates of thinning script: 1
+
+Elapsed time for thinning completion
+25.227 6.348 31.592 0 0
+
+Number of data.frames per locations retained
+loc.cnt df.freq
+115
+1
+Maximum number of records after thinning: 115
+Number of data.frames with max records: 1
+
+**New *.csv file creation:**
+Writing new *.csv files to output directory: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/
+Writing file: /Users/cb76kecu/Dropbox (iDiv)/Micro-Macro_course/2021/Tutorial/Part_1_SDMs/sdm_R/GBIF_data/thinned/Macropus_giganteus_thin1.csv
